@@ -1,4 +1,4 @@
-# SSAnime Scrapper
+# Ranobes Scraper
 
  Script to scrape novels from ranobes.net and create epub
 
